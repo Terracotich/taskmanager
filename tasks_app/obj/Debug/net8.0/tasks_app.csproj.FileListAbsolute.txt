@@ -1,0 +1,14 @@
+E:\c#_proj\tasks_app\bin\Debug\net8.0\tasks_app.exe
+E:\c#_proj\tasks_app\bin\Debug\net8.0\tasks_app.deps.json
+E:\c#_proj\tasks_app\bin\Debug\net8.0\tasks_app.runtimeconfig.json
+E:\c#_proj\tasks_app\bin\Debug\net8.0\tasks_app.dll
+E:\c#_proj\tasks_app\bin\Debug\net8.0\tasks_app.pdb
+E:\c#_proj\tasks_app\obj\Debug\net8.0\tasks_app.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#_proj\tasks_app\obj\Debug\net8.0\tasks_app.AssemblyInfoInputs.cache
+E:\c#_proj\tasks_app\obj\Debug\net8.0\tasks_app.AssemblyInfo.cs
+E:\c#_proj\tasks_app\obj\Debug\net8.0\tasks_app.csproj.CoreCompileInputs.cache
+E:\c#_proj\tasks_app\obj\Debug\net8.0\tasks_app.dll
+E:\c#_proj\tasks_app\obj\Debug\net8.0\refint\tasks_app.dll
+E:\c#_proj\tasks_app\obj\Debug\net8.0\tasks_app.pdb
+E:\c#_proj\tasks_app\obj\Debug\net8.0\tasks_app.genruntimeconfig.cache
+E:\c#_proj\tasks_app\obj\Debug\net8.0\ref\tasks_app.dll
